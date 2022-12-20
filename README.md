@@ -98,4 +98,4 @@ $ terraform destroy -auto-approve
 
 This will destroy all of the resources that were spun up in the account. 
 
-Otherwise, happy hacking!! :smile!
+Otherwise, happy hacking!

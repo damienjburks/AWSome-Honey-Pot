@@ -84,8 +84,6 @@ Assuming you have your AWS CLI configured properly for your account, you'll need
     ![Homepage](./images/tpot_homepage.png)
     If not, check your security groups and ensure you have whitelisted the right IP address CIDRs.
 
-    >**NOTE**: The default credentials can be changed at anytime inside of the web portal, which I highly recommend you do change them.
-
 ---
 
 ## Cleanup Resources
